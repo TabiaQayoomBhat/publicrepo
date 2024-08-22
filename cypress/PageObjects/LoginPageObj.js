@@ -6,10 +6,10 @@ class Login {
     
 
 
-    setEmail(email)
-    {
-        cy.get(this.txtEmail).type(email);
-    }
+    // setEmail(email)
+    // {
+    //     cy.get(this.txtEmail).type(email);
+    // }
 
     setPassword(password)
     {
