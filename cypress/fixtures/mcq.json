@@ -1,0 +1,50 @@
+
+{
+    "email": "tabi@gmail.com",
+     "password": "Test@123",
+     "expected": "Assessments",
+     "url":"https://testassessment.educian.com",
+
+ 
+    "user_Fname":"Izma", 
+    "user_Lname": "sofi",
+    "user_Email": "izma@gmail.com",
+    "user_Password": "Test@123",
+    "user_search": "tab",
+    
+
+    "Group_Name": "Trainees",
+    "Update_Gname": "Interns",
+
+    "SubOrg_Email": "trendss@gmail.com",
+    "SubOrg_Name": "Trends Public School",
+    "SubOrg_Password":"Test@123",
+    "SubOrg_Rename":"Renamed Organization",
+
+
+    "Setting_OrgName": "New Name assigned",
+
+    "Old_Password":"Tabia@123",
+    "New_Password":"Test@123",
+    "Confirm_Password":"Test@123",
+
+    "Assessment_Name": "Testing Cypress",
+
+    "Assmnt_Time":"2",
+    "Assmnt_Marks":"2",
+    "Adding_Question":"What is Photosynthesis?",
+    "Opt_1":"ABC",
+    "Opt_2":"DEF",
+    "Opt_3":"None",
+
+
+    "Renamed_Assessment": "changing name via cypress",
+
+    "Dashboard_Search": "Cypress",
+
+    "S_Parent": "University Of Kashmir",
+    "S_Organization_Name": "Test Era",
+    "S_Organization_Email": "test123@gmail.com",
+    "S_Password": "Test@123"
+    
+}
