@@ -11,9 +11,9 @@ describe('pom', () => {
         const addgroup= new Groups();
         cy.fixture("mcq.json").then((data)=>{
          
-        //  addgroup.Group_Icon()
-        //  //addgroup.Edit_GroupName()
-        //  addgroup.Add_Group(data.Group_Name)
+         addgroup.Group_Icon()
+         //addgroup.Edit_GroupName()
+         addgroup.Add_Group(data.Group_Name)
 
         })
 
